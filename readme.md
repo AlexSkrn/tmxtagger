@@ -3,9 +3,13 @@
 ## How to install on Windows (no admin rights required)
 
 Step 1. Get Python 3 from Microsoft Store
+
 Step 2. Get PowerShell from Microsoft Store
+
 Step 3. Create a new folder in your file system on Windows
+
 Step 4. Write click on that folder and select Open in Terminal
+
 Step 5. Write the following in the command line of the open Terminal window: 
 ```
 > python3 -m venv .venv
