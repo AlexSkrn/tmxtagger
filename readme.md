@@ -8,7 +8,7 @@ Step 2. Get PowerShell from Microsoft Store
 
 Step 3. Create a new folder in your file system on Windows
 
-Step 4. Write click on that folder and select Open in Terminal
+Step 4. Right-click on that folder and select Open in Terminal
 
 Step 5. Write the following in the command line of the open Terminal window: 
 ```
@@ -17,7 +17,7 @@ Step 5. Write the following in the command line of the open Terminal window:
 > python3 -m pip install tmxtagger
 ```
 
-### How to use
+## How to use
 
 If you've just finished the installation, just type in in the command line:
 ```
