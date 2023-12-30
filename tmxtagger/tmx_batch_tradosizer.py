@@ -15,7 +15,7 @@ import sys
 import tkinter as tk
 from tkinter import filedialog
 
-from to_tmx import tmx_tradosizer
+from tmxtagger import tmx_tradosizer
 
 
 class ProcessTMX:
